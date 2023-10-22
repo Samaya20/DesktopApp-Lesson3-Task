@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Task-3-Win\Anket\bin\Debug\net6.0-windows\Anket.exe
+C:\Users\User\source\repos\Task-3-Win\Anket\bin\Debug\net6.0-windows\Anket.deps.json
+C:\Users\User\source\repos\Task-3-Win\Anket\bin\Debug\net6.0-windows\Anket.runtimeconfig.json
+C:\Users\User\source\repos\Task-3-Win\Anket\bin\Debug\net6.0-windows\Anket.dll
+C:\Users\User\source\repos\Task-3-Win\Anket\bin\Debug\net6.0-windows\Anket.pdb
+C:\Users\User\source\repos\Task-3-Win\Anket\obj\Debug\net6.0-windows\Anket.Form1.resources
+C:\Users\User\source\repos\Task-3-Win\Anket\obj\Debug\net6.0-windows\Anket.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Task-3-Win\Anket\obj\Debug\net6.0-windows\Anket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Task-3-Win\Anket\obj\Debug\net6.0-windows\Anket.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Task-3-Win\Anket\obj\Debug\net6.0-windows\Anket.AssemblyInfo.cs
+C:\Users\User\source\repos\Task-3-Win\Anket\obj\Debug\net6.0-windows\Anket.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Task-3-Win\Anket\obj\Debug\net6.0-windows\Anket.dll
+C:\Users\User\source\repos\Task-3-Win\Anket\obj\Debug\net6.0-windows\refint\Anket.dll
+C:\Users\User\source\repos\Task-3-Win\Anket\obj\Debug\net6.0-windows\Anket.pdb
+C:\Users\User\source\repos\Task-3-Win\Anket\obj\Debug\net6.0-windows\Anket.genruntimeconfig.cache
+C:\Users\User\source\repos\Task-3-Win\Anket\obj\Debug\net6.0-windows\ref\Anket.dll
